@@ -6,7 +6,9 @@ RENCANAN SKRIPSI SBW
   * HTMl
   * CSS
   * Javascript
-  * Bootstrap5
+    ^ Angular
+    ^ React
   * PHP
+    ^ Laravel
 - Maju Meja
 - Lulus tahun 2022 ini.
