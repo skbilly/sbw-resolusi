@@ -5,10 +5,12 @@ RENCANAN SKRIPSI SBW
 - Membuat desain web
   * HTMl
   * CSS
-  * Javascript
-    ^ Angular
+  * Frameworks Javascript
+    ^ Vue
     ^ React
-  * PHP
-    ^ Laravel
+  * Bootstrap5
+  * PHP Frameworks
+    ^Laravel
+  * Python
 - Maju Meja
 - Lulus tahun 2022 ini.
