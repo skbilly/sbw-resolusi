@@ -1,7 +1,11 @@
 RENCANAN SKRIPSI SBW
 
-- Mengajukan Judul Skripsi 
+- Mengajukan Judul Skripsi
 - Mengumpulkan Data
 - Membuat desain web
+  * HTMl
+  * CSS
+  * Bootstrap5
+  * PHP
 - Maju Meja
 - Lulus tahun 2022 ini.
