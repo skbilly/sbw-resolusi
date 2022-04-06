@@ -1,4 +1,5 @@
 SBW RESOLUSI
 - Konsiten untuk belajar HTML, CSS, JavaScript, Bootstrap5, dan PHP
-- Membuat platform untuk menyelesaikan skripsi 
+- Membuat platform untuk menyelesaikan skripsi
+- Maju Meja
 - Menyelesaikan kuliah tahun 2022 ini
