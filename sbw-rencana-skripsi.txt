@@ -5,6 +5,7 @@ RENCANAN SKRIPSI SBW
 - Membuat desain web
   * HTMl
   * CSS
+  * Javascript
   * Bootstrap5
   * PHP
 - Maju Meja
