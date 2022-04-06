@@ -1,2 +1,2 @@
 # sbw-resolusi
-Repositoru untuk menyimpan SBW kedepannya
+Repositori untuk menyimpan SBW kedepannya
